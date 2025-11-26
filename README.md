@@ -17,5 +17,5 @@ docker run -it --mount type=bind,src=.,dst=/cmake-exercise sse-cmake-image:lates
 3. Once inside the container, you are inside the `cmake-exercise` directory, and can run 
 
 ```bash
-./build_and_run.sh`
+./build_and_run.sh
 ```
